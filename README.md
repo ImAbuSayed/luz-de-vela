@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-vela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Luz de vela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-vela/) |
+| **Get License** | [Obtain a Music License for Luz de vela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-vela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Apaga las luces y deja la vela
+> Ese movimiento es el que me desvela
+> Me tienes perdido cayendo en tu juego
+> Subiendo la nota y pidiendo más fuego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
