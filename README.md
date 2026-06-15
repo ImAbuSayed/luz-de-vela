@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-vela/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Luz de vela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-vela/) |
+| **Get License** | [Official Music Licensing for Luz de vela](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-vela/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0b619cb9be939bd92651e5a8570e78a81e44c76f6929c25e62627fd5d7de5cbf` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
